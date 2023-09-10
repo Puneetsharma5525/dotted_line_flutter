@@ -1,6 +1,6 @@
 name: dotted_line_flutter
 description: This package allows you to draw dotted lines with Flutter. You can draw a beautiful dotted line.
-version: 0.1.2
+version: 0.1.3
 homepage: https://github.com/Puneetsharma5525/dotted_line_flutter
 repository: https://github.com/Puneetsharma5525/dotted_line_flutter
 environment:
@@ -20,20 +20,19 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
   plugin:
     platforms:
       android:
-        package: com.example.untitled
-        pluginClass: UntitledPlugin
+        package: com.example.dotted_line_flutter
+        pluginClass: DottedLineFlutterPlugin
       ios:
-        pluginClass: UntitledPlugin
+        pluginClass: DottedLineFlutterPlugin
       linux:
-        pluginClass: UntitledPlugin
+        pluginClass: DottedLineFlutterPlugin
       macos:
-        pluginClass: UntitledPlugin
+        pluginClass: DottedLineFlutterPlugin
       windows:
-        pluginClass: UntitledPluginCApi
+        pluginClass: DottedLineFlutterPluginCApi
       web:
-        pluginClass: UntitledWeb
-        fileName: untitled_web.dart
+        pluginClass: DottedLineFlutterWeb
+        fileName: dotted_line_flutter_web.dart

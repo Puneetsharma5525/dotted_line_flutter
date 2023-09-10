@@ -9,4 +9,8 @@
 
 ## 0.1.3
 
-*   some Changes
+* some Changes
+
+## 0.1.4
+
+*  Plugin configuration mismatch, class names or package name incorrect Solve.
