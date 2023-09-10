@@ -1,5 +1,4 @@
-
-// ignore_for_file: file_names
+library dotted_line_flutter;
 
 import 'package:flutter/material.dart';
 

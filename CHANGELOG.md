@@ -5,3 +5,8 @@
 ## 0.1.2
 
 * Added readme , Custom Gap Color , lineThickness , dashGap , dashWidth
+
+
+## 0.1.3
+
+*   some Changes
