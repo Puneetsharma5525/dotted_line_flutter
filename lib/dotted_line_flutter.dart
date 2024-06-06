@@ -2,7 +2,6 @@ library dotted_line_flutter;
 
 import 'package:flutter/material.dart';
 
-
 class DottedLinePainter extends CustomPainter {
   final Color color;
   final Color gapColor;
